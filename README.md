@@ -1,24 +1,68 @@
-# Quality Specialist (SME & Data POC)
+# 📊 Data Analyst Portfolio – Arka Das
 
-#### Technical Skills: SQL, Excel, Amazon QuickSight, Power BI, Tableau, Python
+## 🔹 About Me
+I’m a data-driven professional currently working as a **Quality Specialist (Data Analyst – Transportation)** at Amazon, where I analyze operational and audit data to identify gaps, improve processes and ensure accuracy across last-mile workflows.
 
-## Education
-- B.Tech, Civil Engineering | MAKAUT, West Bengal (_2021_)								       		
+Over time, I developed strong expertise in **SQL and Data Analytics**, working with complex datasets involving audits, geolocation validation and multi-level quality checks. I specialize in transforming structured and semi-structured data into meaningful business insights.
 
-## Work Experience
-**Quality Specialist (SME & Data POC) @ Amazon (_December 2023 - Present_)**
-- Redefined the disagreement logic which had an impact on overall disagreement volume and reducing it to ~12% from ~20% saving approximately 30hrs of production time and improving team quality by 2% and stakeholder quality by 1.2%.
-- Created multiple ingestion queries using Datanet ETL which reduced the overall query run time to 30mins from 1.5hrs-2hrs saving at least 1hr of SPOC bandwidth per day.
-- Created dashboards for Weekly Business Review, Internal Quality Report, Bottom Performer and Team Performance Tracker which ensured achieving month-by-month productivity and quality goals and reduced Manager and SPOC bandwith by ~2hrs per week.
-- Craeted automailers for daily feedbacks and weekly quality reports which helped with improving overall team quality by ~2% and helped saving SPOC bandwidth by ~1hr per day.
-- Craeted multiple tampermonkey scrips which helped reducing the manual effort for team members and improved team productivity by 5cph.
+---
 
-**Quality Specialist @ Amazon (_November 2021 - December 2023_)**
-- Conducted data collection, processing, and analysis for upding the SOP which had an impact on team productivity and quality and ensured better correction for high-value cases.
-- Uncovered and corrected geocodes in production with ~40cph and ~98% quality which had a immense impact on ground level.
+## 🔹 What I Do
+- Analyze audit and operational data to identify discrepancies and performance gaps  
+- Work with structured and semi-structured datasets (including JSON-based data)  
+- Build data-driven solutions to improve quality and operational efficiency  
 
-## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+---
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+## 🔹 Key Experience (Amazon)
+**Data Analyst | Quality Specialist – Geocoding Quality Team (LMAQ)**  
+*Nov 2023 – Present*
+
+### 🚀 Projects & Contributions
+- Developed **Ops Volume ETL query** to streamline QC1 data ingestion  
+- Built **Productivity & Quality tracking queries (Athena)** for auditor performance monitoring  
+- Created **Bottom 20% dashboard** to identify underperforming auditors  
+- Designed **Top Performer dashboard** to highlight high-performing auditors  
+
+### 📊 Core Work
+- Analyzed large-scale audit datasets to identify quality gaps and inefficiencies  
+- Wrote advanced SQL queries (CTEs, joins, aggregations) using Athena  
+- Worked with ETL pipelines to optimize data ingestion workflows  
+- Handled structured + semi-structured (JSON) data for validation and analysis  
+- Built Excel dashboards to track productivity and quality metrics  
+
+---
+
+## 🔹 Projects
+
+### 📈 Productivity & Utilization Dashboard (Excel)
+- Interactive dashboard to track productivity and utilization metrics  
+- Built using Excel formulas, pivot tables, and visualization techniques  
+- Helps identify performance trends and efficiency gaps  
+
+📁 File: `Excel/Productivity & Utilization Dashboard.xlsx`
+
+---
+
+## 🔹 Skills
+- **SQL:** Joins, CTEs, JSON, aggregations, data transformation  
+- **Excel:** Dashboards, Pivot Tables, KPI tracking  
+- **Tools:** Amazon Athena, Power BI (learning), ETL workflows  
+
+---
+
+## 🔹 What I’m Building
+- Advanced SQL expertise (optimization, real-world problem solving)  
+- Data visualization skills (Power BI)  
+- End-to-end analytical thinking for business decision-making  
+
+---
+
+## 🔹 Career Goal
+Transitioning into a full-time **Data Analyst role**, where I can apply analytical skills to solve real business problems and drive data-driven decisions.
+
+---
+
+## 🔹 Contact
+📌 LinkedIn: www.linkedin.com/in/arka-das-10
+📱 Call/WhatsApp: +919474688027
