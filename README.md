@@ -64,5 +64,5 @@ Transitioning into a full-time **Data Analyst role**, where I can apply analytic
 ---
 
 ## 🔹 Contact
-📌 LinkedIn: www.linkedin.com/in/arka-das-10
+📌 LinkedIn: www.linkedin.com/in/arka-das-10  
 📱 Call/WhatsApp: +919474688027
